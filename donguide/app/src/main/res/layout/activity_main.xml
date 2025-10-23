@@ -36,8 +36,6 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:orientation="horizontal"
-
-
         >
         <Button android:id="@+id/button_map"
             android:text="map"
@@ -48,7 +46,7 @@
             android:layout_weight="1"
             >
         </Button>
-        <Button android:id="@+id/button_main"
+        <Button android:id="@+id/button_catalog"
             android:text="main"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -60,15 +58,23 @@
             android:layout_weight="1"
             >
         </Button>
-        <Button android:id="@+id/button_account"
-            android:text="account"
+        <Button android:id="@+id/button_featured"
+            android:text="fea"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
             android:layout_weight="1"
             >
-
+        </Button>
+        <Button android:id="@+id/button_routes"
+            android:text="rou"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            android:layout_weight="1"
+            >
 
         </Button>
     </LinearLayout>
