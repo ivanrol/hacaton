@@ -5,12 +5,16 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:padding="100dp"
     tools:context=".MainActivity">
 
-    <com.google.android.gms.maps.MapView
-        android:id="@+id/mapView"
-        android:layout_width="218dp"
-        android:layout_height="246dp"
-        tools:layout_editor_absoluteX="96dp"
-        tools:layout_editor_absoluteY="242dp" />
+    <LinearLayout android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="horizontal">
+        <TextView a>
+
+        </TextView>
+    </LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
+
