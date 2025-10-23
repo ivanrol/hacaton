@@ -9,7 +9,7 @@
     android:orientation="vertical"
     tools:context=".MapActivity">
 
-    <Button
+    <ImageButton
         android:id="@+id/button_back"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -20,5 +20,5 @@
         android:src="@drawable/back_button"
         android:background="@drawable/back_button"
         android:text="back">
-    </Button>
+    </ImageButton>
 </LinearLayout>

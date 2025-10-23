@@ -5,12 +5,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c0e36de-5596-48f1-adc2-937822e1344c" name="Changes" comment="update5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Next js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_circle_outline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/donguide/.idea/deploymentTargetSelector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/donguide/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/donguide/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donguide/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/donguide/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donguide/app/src/main/java/com/example/myapplication/MapActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/donguide/app/src/main/java/com/example/myapplication/MapActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donguide/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/donguide/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/.idea/deviceManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/.idea/studiobot.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/donguide/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/app/src/main/res/layout/map_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/donguide/app/src/main/res/layout/map_activity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/donguide/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.idea/AndroidProjectSystem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.idea/deviceManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.idea/studiobot.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/java/com/example/myapplication/MapActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/drawable/donbass_arena.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/app/src/test/java/com/example/myapplication/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguide — копия/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPhone 14 Pro Max (2).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iPhone 14 Pro Max.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/История окно.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Категории окно.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Прямоугольник 4 (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Прямоугольник 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Прямоугольник 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Размер1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сочетание 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сочетание 3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сочетание 5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сочетание 6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Сочетание 7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Телефон.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +131,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/iliasolop/AndroidStudioProjects/hacaton"
   }
 }]]></component>
   <component name="TaskManager">
