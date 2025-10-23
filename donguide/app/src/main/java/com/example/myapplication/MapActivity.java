@@ -15,6 +15,15 @@ public class MapActivity extends AppCompatActivity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.map_activity);
+        setContentView(R.layout.activity_main);
+        TextView textView = new TextView(this);
+        textView.setText("Hello World!");
+
+        findViewById(R.id.button_map).setOnClickListener(this::onClickMapActivity);
+    }
+
+    private void onClickMapActivity(View view){
+        var intent = new Intent(this, MapActivity.class);
+        startActivity(intent);
     }
 }
